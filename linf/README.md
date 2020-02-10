@@ -4,5 +4,3 @@ The `Invariant_Linf_Attack.ipynb` notebook can be used to automatically generate
 As the generation procedure is costly, this folder contains saved numpy arrays for pre-generated examples (`adv_examples.npy`). 
 The corresponding clean examples are saved in `X_test_100.npy`.
 
-The file `manual_linf_25.npy` contains manually created adversarial examples for the first 25 test examples we used. 
-The notebook shows how to load and plot these.
